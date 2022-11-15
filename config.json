@@ -1,0 +1,133 @@
+{
+  "name": "Helen Andrade",
+  "job": "Web Developer",
+  "github": "helen-andrade",
+  "playlists": {
+    "musics": [
+      {
+        "title": "Crimson and clover - Tommy James",
+        "url": "https://youtu.be/jlCFIYEFh4k",
+        "thumb": "https://img.youtube.com/vi/jlCFIYEFh4k/sddefault.jpg"
+      },
+      {
+        "title": "Careless Whisper - Gerorge Michael",
+        "url": "https://www.youtube.com/watch?v=izGwDsrQ1eQ&list=RDjlCFIYEFh4k&index=5",
+        "thumb": "https://img.youtube.com/vi/izGwDsrQ1eQ/sddefault.jpg"
+      },
+      {
+        "title": "Medo de careta - Os dentes",
+        "url": "https://www.youtube.com/watch?v=lZpRJQrn3Lg",
+        "thumb": "https://img.youtube.com/vi/lZpRJQrn3Lg/sddefault.jpg"
+      },
+      {
+        "title": "Sealed with a kiss - Bobby Vinton",
+        "url": "https://www.youtube.com/watch?v=ZvP42bkrhO4",
+        "thumb": "https://i3.ytimg.com/vi/ZvP42bkrhO4/hqdefault.jpg"
+      },
+      {
+        "title": "La lessive - Zaz",
+        "url": "https://www.youtube.com/watch?v=SPhbNf8hfNI",
+        "thumb": "https://img.youtube.com/vi/SPhbNf8hfNI/maxresdefault.jpg"
+      },
+      {
+        "title": "Lucky - Jason Mraz",
+        "url": "https://www.youtube.com/watch?v=acvIVA9-FMQ",
+        "thumb": "https://i3.ytimg.com/vi/acvIVA9-FMQ/hqdefault.jpg"
+      },
+      {
+        "title": "De janeiro a janeiro - Roberta Campos",
+        "url": "https://www.youtube.com/watch?v=0CEkbD3nepI",
+        "thumb": "https://img.youtube.com/vi/0CEkbD3nepI/maxresdefault.jpg"
+      },
+      {
+        "title": "Ainda bem - Marisa Monte",
+        "url": "https://www.youtube.com/watch?v=t7M89YJAPhM",
+        "thumb": "https://img.youtube.com/vi/t7M89YJAPhM/maxresdefault.jpg"
+      }
+    ],
+    "front-end": [
+      {
+        "title": "Curso em vídeo (Gustavo Guanabara) - HTML5 e CSS3",
+        "url": "https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n",
+        "thumb": "https://img.youtube.com/vi/Ejkb_YpuHWs/maxresdefault.jpg"
+      },
+      {
+        "title": "Curso em vídeo (Gustavo Guanabara) - Curso de Algoritmos #01",
+        "url": "https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV",
+        "thumb": "https://img.youtube.com/vi/8mei6uVttho/maxresdefault.jpg"
+      },
+      {
+        "title": "Curso em vídeo - Javascript moderno",
+        "url": "https://www.youtube.com/watch?v=BXqUH86F-kA&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm",
+        "thumb": "https://img.youtube.com/vi/BXqUH86F-kA/maxresdefault.jpg"
+      },
+      {
+        "title": "Rocketseat - TUDO que você deve estudar de JavaScript antes do React",
+        "url": "https://www.youtube.com/watch?v=37SwqREHRGI&t=64s",
+        "thumb": "https://img.youtube.com/vi/37SwqREHRGI/maxresdefault.jpg"
+      },
+      {
+        "title": "Rocketseat - Duas regras que você precisa cumprir com hooks no React",
+        "url": "https://www.youtube.com/watch?v=lRWf4WjfsVI",
+        "thumb": "https://img.youtube.com/vi/lRWf4WjfsVI/maxresdefault.jpg"
+      },
+      {
+        "title": "Como Foi Programado um App Que Faz Mágica",
+        "url": "https://www.youtube.com/watch?v=I36seuWUe5s",
+        "thumb": "https://img.youtube.com/vi/I36seuWUe5s/hqdefault.jpg"
+      },
+      {
+        "title": "O que todo iniciante em Front End deveria aprender | Como manipular arrays e objetos em JavaScript",
+        "url": "https://www.youtube.com/watch?v=yS7AcF-xRUg",
+        "thumb": "https://img.youtube.com/vi/yS7AcF-xRUg/hqdefault.jpg"
+      },
+      {
+        "title": "5 Erros Históricos do CSS",
+        "url": "https://www.youtube.com/watch?v=HNjkqONzGS0",
+        "thumb": "https://img.youtube.com/vi/HNjkqONzGS0/hqdefault.jpg"
+      },
+      {
+        "title": "Deploy de Front End ATUALIZADO! | O que eu uso para hospedagem de Front End",
+        "url": "https://www.youtube.com/watch?v=d9c0r-J6CdM",
+        "thumb": "https://img.youtube.com/vi/d9c0r-J6CdM/hqdefault.jpg"
+      }
+    ],
+    "back-end": [
+      {
+        "title": "Node JS: Construindo CRUDs com file system focando em serialização e JSON",
+        "url": "https://www.youtube.com/watch?v=dvd3pNYh7So",
+        "thumb": "https://img.youtube.com/vi/dvd3pNYh7So/hqdefault.jpg"
+      },
+      {
+        "title": "Node JS: Construindo CRUDs com file system focando em serialização e JSON",
+        "url": "https://www.youtube.com/watch?v=8q36rNS5yVo",
+        "thumb": "https://img.youtube.com/vi/8q36rNS5yVo/hqdefault.jpg"
+      },
+      {
+        "title": "O que é o Java? #HipstersPontoTube",
+        "url": "https://www.youtube.com/watch?v=90NcVNsKGik",
+        "thumb": "https://img.youtube.com/vi/90NcVNsKGik/hqdefault.jpg"
+      },
+      {
+        "title": "O que é Machine Learning? #HipstersPontoTube",
+        "url": "https://www.youtube.com/watch?v=Iuz_jc96bQk",
+        "thumb": "https://img.youtube.com/vi/Iuz_jc96bQk/hqdefault.jpg"
+      },
+      {
+        "title": "A MELHOR linguagem de programação com Fabio Akita | #HipstersPontoTube",
+        "url": "https://www.youtube.com/watch?v=imB0QVoNrGc",
+        "thumb": "https://img.youtube.com/vi/imB0QVoNrGc/hqdefault.jpg"
+      },
+      {
+        "title": "Top 5 libs que todo aplicativo Android deve ter com Alex Felipe | #HipstersPontoTube",
+        "url": "https://www.youtube.com/watch?v=ldRbnpy-qQs",
+        "thumb": "https://img.youtube.com/vi/ldRbnpy-qQs/hqdefault.jpg"
+      },
+      {
+        "title": "O que é o C#? #HipstersPontoTube",
+        "url": "https://www.youtube.com/watch?v=0JWMVc1CqpA",
+        "thumb": "https://img.youtube.com/vi/0JWMVc1CqpA/hqdefault.jpg"
+      }
+    ]
+  }
+}
